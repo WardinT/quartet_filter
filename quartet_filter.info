@@ -1,0 +1,4 @@
+name = Quartet Filter
+description = Provides a views filter to search in both quartet columns.
+core = 7.x
+package = Views
